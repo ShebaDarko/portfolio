@@ -5,3 +5,4 @@ Msc Mathematics
 data scientist at 
 -import data
 ## Projects
+Deep learning and scientist
