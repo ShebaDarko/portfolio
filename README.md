@@ -1,4 +1,4 @@
-# Data Scienist 
+# Data Scientist 
 #Education
 Msc Mathematics
 ### Work experience
