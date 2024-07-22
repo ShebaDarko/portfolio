@@ -7,7 +7,7 @@
 - Developing and implementing machine learning algorithms
 
 ### Projects: Deep learning and advanced data science  
-- Explore my work on [GitHub](https://github.com/YourUsername)
+- Explore my work on [GitHub](https://github.com/ShebaDarko/MACHINE-LEARNING-FOR-INTRUSION-DETECTION-)
 
 ### Hobbies: Video editing, reading, singing
 
