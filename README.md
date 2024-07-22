@@ -1,7 +1,7 @@
 ## Data Scientist
 
 ### Education
-M.Sc. in Mathematics
+M.Sc. in Computational and Applied Mathematics
 <hr style="border: 1px solid #000;"/>
 
 ### Work Experience
