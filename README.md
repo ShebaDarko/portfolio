@@ -1,8 +1,8 @@
 ## Data Scientist
 
-## Education:** M.Sc. in Mathematics
+## Education: M.Sc. in Mathematics
 
-## Work Experience:** Data Scientist  
+## Work Experience: Data Scientist  
 - Conducting data analysis and modeling  
 - Developing and implementing machine learning algorithms
 
