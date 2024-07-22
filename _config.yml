@@ -1,5 +1,24 @@
+# Title of the website
 title: Bathsheba Darko
+
+# Path to your logo image
 logo: /assets/headshot.jpeg
-#description: text below image
-#show_downloads: true
-theme: jekyll-theme-minimal
+
+# Description or tagline for your site
+description: |
+  Welcome to my personal website! I’m Bathsheba Darko, a curious learner with diverse interests including YouTube video editing, reading, and singing. Explore my projects and connect with me on [GitHub](https://github.com/yourusername). I look forward to sharing and growing with you!
+
+# Custom theme settings
+theme: my-custom-theme
+
+# Optional settings for your custom theme
+my-custom-theme:
+  background_color: '#f0f0f0'
+  text_color: '#333333'
+  header_font: 'Arial, sans-serif'
+  body_font: 'Georgia, serif'
+  header_image: /assets/header-background.jpg
+  footer_text: '© 2024 Bathsheba Darko. All rights reserved.'
+
+# Optional settings
+show_downloads: false
