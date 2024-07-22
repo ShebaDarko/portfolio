@@ -1,5 +1,34 @@
+# Site title
 title: Bathsheba Darko
+
+# Logo image path
 logo: /assets/headshot.jpeg
-#description: text below image
-#show_downloads: true
-theme: minima
+
+# Site description
+description: |
+  Welcome to my personal website! I’m Bathsheba Darko, a curious learner with diverse interests including YouTube video editing, reading, and singing. Explore my projects and connect with me on [GitHub](https://github.com/yourusername). I look forward to sharing and growing with you!
+
+# Use the Tale theme
+theme: tale
+
+# Optional settings
+show_downloads: false
+
+# Define base URL for the site (adjust if hosted in a subdirectory)
+baseurl: "" # leave as "" if hosting at the root of the domain
+
+# URL of the site (necessary for correct link generation)
+url: "https://yourdomain.com"
+
+# Optional: Setting for plugins (if using plugins)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Permalink settings
+permalink: pretty
+
+# Social links (example, remove if not needed)
+social:
+  twitter: your_twitter_handle
+  github: your_github_handle
