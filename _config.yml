@@ -3,3 +3,10 @@ logo: /assets/headshot.jpeg
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
+
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: custom
