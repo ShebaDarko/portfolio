@@ -1,24 +1,38 @@
-# Title of the website
+# Site title
 title: Bathsheba Darko
 
-# Path to your logo image
+# Logo image path
 logo: /assets/headshot.jpeg
 
-# Description or tagline for your site
+# Site description
 description: |
   Welcome to my personal website! I’m Bathsheba Darko, a curious learner with diverse interests including YouTube video editing, reading, and singing. Explore my projects and connect with me on [GitHub](https://github.com/yourusername). I look forward to sharing and growing with you!
 
-# Custom theme settings
-theme: my-custom-theme
+# Use the Minima theme
+theme: minima
 
-# Optional settings for your custom theme
-my-custom-theme:
-  background_color: '#f0f0f0'
-  text_color: '#333333'
-  header_font: 'Arial, sans-serif'
-  body_font: 'Georgia, serif'
-  header_image: /assets/header-background.jpg
-  footer_text: '© 2024 Bathsheba Darko. All rights reserved.'
+# Optional settings for Minima theme
+minima:
+  # Specify the theme's custom variables here if needed
 
 # Optional settings
 show_downloads: false
+
+# Define base URL for the site (adjust if hosted in a subdirectory)
+baseurl: "" # leave as "" if hosting at the root of the domain
+
+# URL of the site (necessary for correct link generation)
+url: "https://yourdomain.com"
+
+# Optional: Setting for plugins (if using plugins)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Permalink settings
+permalink: pretty
+
+# Social links (example)
+social:
+  twitter: your_twitter_handle
+  github: your_github_handle
