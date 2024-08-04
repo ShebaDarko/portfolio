@@ -16,7 +16,7 @@ Deep learning and advanced data science
 <hr style="border: 1px solid #000;"/>
 
 ### Hobbies
-Video editing, reading, singing  
+Coding, Coaching & Mentoring, YouTube Video editing, Motivational Speaking, Graphic editing.
 <hr style="border: 1px solid #000;"/>
 
 A curious learner dedicated to exploring new trends and techniques in data science.
